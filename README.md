@@ -1,5 +1,10 @@
 # Battleship
 The popular kids game of Battleship
+
+
+
+
+
 %Begin by working on placeShips and chooseShipLocation,
 %then playTurn
 function [] = battleShip()
